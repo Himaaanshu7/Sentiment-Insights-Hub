@@ -30,8 +30,6 @@ Tableau Public (for visualization)
 Anaconda (recommended for environment management)
 
 **Installation**
-Clone the repository:git clone https://github.com/yourusername/Sentiment-Insights-Hub.git
-cd Sentiment-Insights-Hub
 
 Set up a virtual environment (optional but recommended):python -m venv venv
 venv\Scripts\activate  # Windows
